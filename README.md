@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">A passionate QA Automation Engineer from Poland</h3>
-<p align="center">
+
 - 🔭 I’m currently working on [Caspio](https://www.caspio.com/)
-</p>
-<p align="center">
+
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Karolbrauza?tab=repositories)
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
